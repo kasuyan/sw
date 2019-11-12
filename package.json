@@ -1,0 +1,9 @@
+{
+  "name": "sw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kasuyan/sw.git",
+  "author": "kasuya_kazunori <kasuya_kazunori@cyberagent.co.jp>",
+  "license": "MIT",
+  "devDependencies": {}
+}
